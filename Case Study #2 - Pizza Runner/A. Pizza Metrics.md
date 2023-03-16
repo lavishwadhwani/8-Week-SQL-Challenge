@@ -164,4 +164,4 @@ order by count(order_id) desc;
 
 ![14](https://user-images.githubusercontent.com/107829400/225390238-7507484a-2364-4dfa-b83a-dccfe26e7b77.png)
 
-***Click [here]() for solution for B. Runner and Customer Experience!***
+***Click [here](https://github.com/lavishwadhwani/8-Week-SQL-Challenge/blob/04e7c35e69c90035e32aa482a3a14c326935267a/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md) for solution for B. Runner and Customer Experience!***
