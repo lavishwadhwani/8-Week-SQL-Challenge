@@ -296,3 +296,4 @@ ORDER BY
   total_ingredients DESC
 
 ````
+***Click [here](https://github.com/lavishwadhwani/8-Week-SQL-Challenge/blob/fb7dc00764a148cb7a057636ce77d3be9b5869d1/Case%20Study%20%232%20-%20Pizza%20Runner/D.%20Pricing%20and%20Ratings.md) for solution for D. Pricing and Ratings***
