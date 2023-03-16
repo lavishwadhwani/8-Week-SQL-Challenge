@@ -79,4 +79,4 @@ This is how the clean `runner_orders1` table looks like and we will use this tab
 
 ***
 
-Click here for [solution]() to **A. Pizza Metrics**!
+Click here for [solution](https://github.com/lavishwadhwani/8-Week-SQL-Challenge/blob/fb7dc00764a148cb7a057636ce77d3be9b5869d1/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md) to **A. Pizza Metrics**!
