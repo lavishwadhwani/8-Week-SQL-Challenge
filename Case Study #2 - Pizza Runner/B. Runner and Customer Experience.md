@@ -119,4 +119,4 @@ GROUP BY runner_id;
 
 ![51](https://user-images.githubusercontent.com/107829400/225399940-3b402c49-d2c8-4a39-947d-329eb4bc5eab.png)
 
-***Click [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md) for solution for C. Ingredients Optimisation***
+***Click [here](https://github.com/lavishwadhwani/8-Week-SQL-Challenge/blob/ded677db9d6f9f89425704f6f3613e70d36bcfb4/Case%20Study%20%232%20-%20Pizza%20Runner/C.%20Ingredient%20Optimisation.md) for solution for C. Ingredients Optimisation***
