@@ -77,8 +77,5 @@ View my solution [here](https://github.com/lavishwadhwani/8-Week-SQL-Challenge/b
 - Total number of pizzas
 5. If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?
 
-### E. Bonus Questions
-
-[If Danny wants to expand his range of pizzas - how would this impact the existing data design? Write an INSERT statement to demonstrate what would happen if a new Supreme pizza with all the toppings was added to the Pizza Runner menu?](https://github.com/lavishwadhwani/8-Week-SQL-Challenge/blob/cffebdc52ee19339940f2efd61da3a3b48a7d9ee/Case%20Study%20%232%20-%20Pizza%20Runner/C.%20Ingredient%20Optimisation.md)
 
 ***
