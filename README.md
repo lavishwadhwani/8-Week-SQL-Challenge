@@ -6,7 +6,7 @@ Thanks @DataWithDanny for these insightful SQL case studies!
 
 ## Table of Contents
 - [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
-- [Case Study #2: Pizza Runner](#case-study-2-pizza-runner)
+- [Case Study #2: Pizza Runner](https://github.com/lavishwadhwani/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)
 - [Case Study #3: Foodie-Fi](#case-study-3-foodie-fi) (Coming Soon)
 - [Case Study #4: Data Bank](#case-study-4-data-bank) (Coming Soon)
 - [Case Study #5: Data Mart](#case-study-5-data-mart) (Coming Soon)
