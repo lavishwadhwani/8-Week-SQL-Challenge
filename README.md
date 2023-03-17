@@ -25,3 +25,10 @@ Danny wants to use the data to answer a few simple questions about his customers
 
  **Solution** [here](https://github.com/lavishwadhwani/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner).
 ***
+
+## Case Study #2: Pizza Runner
+
+<img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
+
+View the case study [here](https://8weeksqlchallenge.com/case-study-2/)
+and my **solution** [here](https://github.com/lavishwadhwani/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)
